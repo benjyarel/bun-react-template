@@ -1,0 +1,19 @@
+{
+  "name": "component-toolbox",
+  "module": "index.ts",
+  "type": "module",
+  "jsx": "react",
+  "scripts": {
+    "start": "bun run index.ts"
+  },
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
