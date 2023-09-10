@@ -1,5 +1,5 @@
 {
-  "name": "component-toolbox",
+  "name": "bun-react-template",
   "module": "index.ts",
   "type": "module",
   "jsx": "react",
