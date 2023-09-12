@@ -1,5 +1,5 @@
 export interface ExampleProps {
-  message: string;
+  message?: string;
 }
 
 export const Example = ({ message }: ExampleProps) => {
