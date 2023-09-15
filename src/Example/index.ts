@@ -1,3 +1,1 @@
-
-
-export {Example, ExampleProps} from './Example';
+export { Example, ExampleProps } from "./Example";
